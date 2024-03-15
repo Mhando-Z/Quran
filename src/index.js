@@ -11,3 +11,7 @@ root.render(
   </React.StrictMode>
 );
 reportWebVitals();
+
+
+// git config --global user.name "Mhando-Z"
+// git config --global user.email "Mhandosz17@gmail.com"
