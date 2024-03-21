@@ -151,7 +151,6 @@ function QuranInfo({ quraninfo, quraninf, onChange, Ayahs, val }) {
         }}
       >
         <ReactPlayer
-          //url={`https://cdn.islamic.network/quran/audio/128/ar.alafasy/${val}.mp3`}
           url={`https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/${
             val + 1
           }.mp3`}
