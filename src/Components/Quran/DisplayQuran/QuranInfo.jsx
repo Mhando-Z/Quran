@@ -51,7 +51,11 @@ function QuranInfo({ quraninfo, quraninf, onChange, Ayahs, val }) {
           Choose Surahs
         </Button>
 
-        <Drawer open={open} onClose={toggleDrawer(false)}>
+        <Drawer
+          open={open}
+          onClose={toggleDrawer(false)}
+          transitionDuration={700}
+        >
           <Box
             sx={{
               width: "100%",
@@ -60,6 +64,7 @@ function QuranInfo({ quraninfo, quraninf, onChange, Ayahs, val }) {
             }}
           >
             <Box
+              onClick={toggleDrawer(false)}
               sx={{ borderBottom: 1, borderColor: "divider", bgcolor: "black" }}
             >
               <List>
@@ -151,6 +156,8 @@ function QuranInfo({ quraninfo, quraninf, onChange, Ayahs, val }) {
         }}
       >
         <ReactPlayer
+          position="sticky"
+          top={0}
           url={`https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/${
             val + 1
           }.mp3`}

@@ -135,7 +135,11 @@ function QuranData() {
       <TableContainer component={Paper}>
         <Table>
           <TableHead sx={{ boxShadow: 20, mb: 4 }}>
-            <TableRow sx={{ backgroundColor: "black" }}>
+            <TableRow
+              sx={{ backgroundColor: "black" }}
+              position="sticky"
+              top={0}
+            >
               <Button
                 size="large"
                 variant="outlined"
