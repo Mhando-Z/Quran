@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Quran/static/css/main.0cb9cdf1.css",
+    "main.js": "/Quran/static/js/main.5b8102d4.js",
+    "reactPlayerYouTube.js": "/Quran/static/js/reactPlayerYouTube.c23bf1b7.chunk.js",
+    "reactPlayerSoundCloud.js": "/Quran/static/js/reactPlayerSoundCloud.69f6fef2.chunk.js",
+    "reactPlayerVimeo.js": "/Quran/static/js/reactPlayerVimeo.011ee3a8.chunk.js",
+    "reactPlayerMux.js": "/Quran/static/js/reactPlayerMux.a39216df.chunk.js",
+    "reactPlayerFacebook.js": "/Quran/static/js/reactPlayerFacebook.e13e941d.chunk.js",
+    "reactPlayerStreamable.js": "/Quran/static/js/reactPlayerStreamable.2548cbde.chunk.js",
+    "reactPlayerWistia.js": "/Quran/static/js/reactPlayerWistia.050f749d.chunk.js",
+    "reactPlayerTwitch.js": "/Quran/static/js/reactPlayerTwitch.0dcbced9.chunk.js",
+    "reactPlayerDailyMotion.js": "/Quran/static/js/reactPlayerDailyMotion.a2d0fd62.chunk.js",
+    "reactPlayerMixcloud.js": "/Quran/static/js/reactPlayerMixcloud.82b11698.chunk.js",
+    "reactPlayerVidyard.js": "/Quran/static/js/reactPlayerVidyard.35cf37c6.chunk.js",
+    "reactPlayerKaltura.js": "/Quran/static/js/reactPlayerKaltura.cf387b25.chunk.js",
+    "reactPlayerFilePlayer.js": "/Quran/static/js/reactPlayerFilePlayer.8bd70487.chunk.js",
+    "reactPlayerPreview.js": "/Quran/static/js/reactPlayerPreview.324cae98.chunk.js",
+    "static/js/453.b0bdad0d.chunk.js": "/Quran/static/js/453.b0bdad0d.chunk.js",
+    "index.html": "/Quran/index.html",
+    "main.0cb9cdf1.css.map": "/Quran/static/css/main.0cb9cdf1.css.map",
+    "main.5b8102d4.js.map": "/Quran/static/js/main.5b8102d4.js.map",
+    "reactPlayerYouTube.c23bf1b7.chunk.js.map": "/Quran/static/js/reactPlayerYouTube.c23bf1b7.chunk.js.map",
+    "reactPlayerSoundCloud.69f6fef2.chunk.js.map": "/Quran/static/js/reactPlayerSoundCloud.69f6fef2.chunk.js.map",
+    "reactPlayerVimeo.011ee3a8.chunk.js.map": "/Quran/static/js/reactPlayerVimeo.011ee3a8.chunk.js.map",
+    "reactPlayerMux.a39216df.chunk.js.map": "/Quran/static/js/reactPlayerMux.a39216df.chunk.js.map",
+    "reactPlayerFacebook.e13e941d.chunk.js.map": "/Quran/static/js/reactPlayerFacebook.e13e941d.chunk.js.map",
+    "reactPlayerStreamable.2548cbde.chunk.js.map": "/Quran/static/js/reactPlayerStreamable.2548cbde.chunk.js.map",
+    "reactPlayerWistia.050f749d.chunk.js.map": "/Quran/static/js/reactPlayerWistia.050f749d.chunk.js.map",
+    "reactPlayerTwitch.0dcbced9.chunk.js.map": "/Quran/static/js/reactPlayerTwitch.0dcbced9.chunk.js.map",
+    "reactPlayerDailyMotion.a2d0fd62.chunk.js.map": "/Quran/static/js/reactPlayerDailyMotion.a2d0fd62.chunk.js.map",
+    "reactPlayerMixcloud.82b11698.chunk.js.map": "/Quran/static/js/reactPlayerMixcloud.82b11698.chunk.js.map",
+    "reactPlayerVidyard.35cf37c6.chunk.js.map": "/Quran/static/js/reactPlayerVidyard.35cf37c6.chunk.js.map",
+    "reactPlayerKaltura.cf387b25.chunk.js.map": "/Quran/static/js/reactPlayerKaltura.cf387b25.chunk.js.map",
+    "reactPlayerFilePlayer.8bd70487.chunk.js.map": "/Quran/static/js/reactPlayerFilePlayer.8bd70487.chunk.js.map",
+    "reactPlayerPreview.324cae98.chunk.js.map": "/Quran/static/js/reactPlayerPreview.324cae98.chunk.js.map",
+    "453.b0bdad0d.chunk.js.map": "/Quran/static/js/453.b0bdad0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb9cdf1.css",
+    "static/js/main.5b8102d4.js"
+  ]
+}
